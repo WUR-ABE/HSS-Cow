@@ -1,4 +1,4 @@
-# Robot harvester: works perfect
+# A Hybrid State-Space Model of Individual Dairy Cows
 ![robot](assets/example.jpg "robot")
 > **Robot harvester: works perfect**\
 > Me Myself, Some Supervisor, Some Other Person
