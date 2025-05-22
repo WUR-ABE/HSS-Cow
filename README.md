@@ -1,8 +1,8 @@
 # A Hybrid State-Space Model of Individual Dairy Cows
-![robot](assets/example.jpg "robot")
+![Forrester diagram of model](assets/cow.jpg "Forrester diagram")
 > **Robot harvester: works perfect**\
 > Me Myself, Some Supervisor, Some Other Person
-> Paper: https://todo.nl
+> Paper: 
 
 ## About
 Official implementation of the paper 'Robot harvester: perfect harvesting of fruits'. This software is perfect in harvesting fruits. 
