@@ -10,10 +10,7 @@ Official implementation of the paper 'Robot harvester: perfect harvesting of fru
 ## Installation
 Describe here how to install your software (if relevant). Which Python version does it require? Which dependencies do you have to install, e.g.:
 
-This software is tested on Python 3.10. To install the dependencies, run:
-```
-pip3 install -r requirements.txt
-```
+This model is tested on Matlab R2022b
 
 ## Usage
 Describe how to run your code, e.g.:
@@ -29,4 +26,4 @@ python3 train.py <<path_to_custom_dataset>>
 ```
 
 ## Funding
-This research is part of ..... 
+The Synergia project is organized and led by Wageningen University and Research in close cooperation with Next Food Collective as well as the Universities of Delft, Twente, Eindhoven, and Nijmegen. The authors have declared that no competing interests exist in the writing of this publication. Funding for this research was obtained from the Netherlands Organisation for Scientific Research (NWO grant 17626), IMEC-One Planet and other private parties.
