@@ -6,7 +6,7 @@
 > Maedeh Sadeghi, Sjoerd Boersma, Jan Dijkstra, Simon van Mourik, Peter Groot Koerkamp, and Eldert van Henten
 
 # About
-Official implementation of the paper *From Herd-Level to Individualized Control: A Hybrid State-Space Model for Feeding Individual Dairy Cows*.
+Official implementation of the paper "*From Herd-Level to Individualized Control: A Hybrid State-Space Model for Feeding Individual Dairy Cows*".
 
 This model is designed to predict individual cow responses—such as milk yield, methane emissions, and body weight changes—to varying feed intake levels.
 
