@@ -3,7 +3,7 @@
 >**The code will be made publicly available upon publication of the paper, expected by September.**
 
 ![Hybrid model architecture](assets/hybrid.jpg "Hybrid model architecture")
-> **Figure: Architecture of the hybrid state-space model for individualized dairy cow feeding**\
+> **Figure: Architecture of the hybrid state-space model for an average dairy cow**\
 > Maedeh Sadeghi, Sjoerd Boersma, Jan Dijkstra, Simon van Mourik, Peter Groot Koerkamp, and Eldert van Henten
 
 ## About
