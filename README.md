@@ -1,4 +1,4 @@
-# A Hybrid State-Space Model of Individual Dairy Cows
+# Hybrid State-Space Model of Individual Dairy Cows
 ![Forrester diagram of model](assets/cow.jpg "Forrester diagram")
 > **Robot harvester: works perfect**\
 > Me Myself, Some Supervisor, Some Other Person
