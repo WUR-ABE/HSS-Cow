@@ -3,7 +3,7 @@
 
 ![Hybrid model architecture](assets/hybrid.jpg "Hybrid model architecture")
 > **Figure: Architecture of the hybrid state-space model for individualized dairy cow feeding**\
-> Maedeh Sadeghi, Sjoerd Boersma, Jan Dijkstra, Peter Groot Koerkamp, and Eldert van Henten
+> Maedeh Sadeghi, Sjoerd Boersma, Jan Dijkstra, Simon van Mourik, Peter Groot Koerkamp, and Eldert van Henten
 
 # About
 Official implementation of the paper *From Herd-Level to Individualized Control: A Hybrid State-Space Model for Feeding Individual Dairy Cows*.
