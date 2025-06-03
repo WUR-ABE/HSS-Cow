@@ -1,4 +1,4 @@
-# A Hybrid State-Space Model of Individual Dairy Cows
+# Hybrid State-Space Model of Individual Dairy Cows
 >**The code will be made publicly available upon publication of the paper, expected by September.**
 
 ![Hybrid model architecture](assets/hybrid.jpg "Hybrid model architecture")
